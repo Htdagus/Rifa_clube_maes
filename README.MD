@@ -1,0 +1,1 @@
+Criaçao de um exe para fazer rifas (açao entre amigos) informais.
