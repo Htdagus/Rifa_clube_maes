@@ -15,3 +15,7 @@ COMPOSTA DE:
 - SENDO FÁCIL USO PARA POS SER USADO POR IDOSOS
 
 
+pyinstaller --onefile "C:\Users\tigge\OneDrive\Área de Trabalho\HT testes\Rifa_clube_maes\build\gui.py"
+
+
+https://www.tutorialspoint.com/python/tk_toplevel.htm
